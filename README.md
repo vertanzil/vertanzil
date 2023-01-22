@@ -2,7 +2,7 @@
 # Github Profile - Vertanzil
 
 Hello and welcome to my Github page.
-If you would like to visit my landing page you can do so by clicking  [Clicking here](https://vertanzil.github.io).
+If you would like to visit my landing page you can do so by [Clicking here](https://vertanzil.github.io).
 
 
 ## 🚀 About Me
