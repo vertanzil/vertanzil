@@ -1,6 +1,6 @@
 # Welcome to my Github Page.
 
-[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/vertanzil) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/vertanzil?logo=GitHub&style=for-the-badge)](https://github.com/vertanzil) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/vertanzil?logo=github&style=for-the-badge)](https://github.com/vertanzil) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/vertanzil?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/vertanzil)
+[![Twitter Followers](https://img.shields.io/twitter/follow/sudo_overflow?color=0E7FC0&logo=twitter&style=for-the-badge&label=Twitter)](https://twitter.com/vertanzil) &nbsp; [![GitHub followers](https://img.shields.io/github/followers/vertanzil?logo=GitHub&style=for-the-badge)](https://github.com/vertanzil?tab=followers) &nbsp; [![GitHub Stars](https://img.shields.io/github/stars/vertanzil?logo=github&style=for-the-badge)](https://github.com/vertanzil?tab=stars) &nbsp; [![GitHub Sponsors](https://img.shields.io/github/sponsors/vertanzil?color=BF4B8A&logo=githubsponsors&style=for-the-badge&label=Sponsor%20on%20Github)](https://github.com/sponsors/vertanzil)
 
 
 Hello there and welcome to my Github page, my name is Kyle "Vertanzil" Smith, and I am a deverloper currently based in the UK.
