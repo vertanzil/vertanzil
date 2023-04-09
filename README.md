@@ -27,4 +27,5 @@ The majority of my projects at the moment are either Java based or in Javascript
 <a href="https://github.com/vertanzil/vertanzil">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vertanzil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vertanzil's GitHub Stats" />
 </a>
+  <a href="https://wakatime.com"><img src="https://wakatime.com/share/@Vertanzil/5ea76126-71ce-4d2c-9e9b-4508bd9c5587.png" /></a>
 </div>
