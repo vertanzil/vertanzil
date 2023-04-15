@@ -22,10 +22,10 @@ The majority of my projects at the moment are either Java based or in Javascript
 ## <img src="https://user-images.githubusercontent.com/73062855/227621941-07866a9f-7a42-4bf0-84e5-79f80e3808d9.png" width="25" height="25"> Stats
 <div>
 <a href="https://github.com/vertanzil/vertanzil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertanzil&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vertanzil&count_private=true&theme=transparent&langs_count=3" />
 </a>
 <a href="https://github.com/vertanzil/vertanzil">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vertanzil&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="vertanzil's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vertanzil&show_icons=true&line_height=27&count_private=true&theme=transparent" alt="vertanzil's GitHub Stats" />
 </a>
 <figure><img src="https://wakatime.com/share/@Vertanzil/3cdee30e-fe1e-4c2f-b79b-80e110ee99c5.svg"></embed></figure>
 </div>
