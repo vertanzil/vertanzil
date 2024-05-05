@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyle (Vertanzil) Smith
 ==============================================================================================================================================
 
-Web Developer & Programmer
+Independant Developer
 --------------------------
 
 I sometimes make things usually break things, then try and figure out how to fix them.
