@@ -38,11 +38,6 @@ I sometimes make things usually break things, then try and figure out how to fix
 <div width="100%" align="center"><a href="https://github.com/Vertanzil/SkeletonPHP" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Vertanzil&repo=SkeletonPHP&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
 ### Support Me
-
 <ul style="list-style-type: none; margin: 0;">
-
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/vertanzil"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/vertanzil"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
-
 </ul>
