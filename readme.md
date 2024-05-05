@@ -29,7 +29,7 @@ I sometimes make things usually break things, then try and figure out how to fix
 
 <a href="http://www.github.com/Vertanzil"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Vertanzil&stroke=ffffff&background=22272e&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-[![Vertanzil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vertanzil)](https://github.com/Vertanzil/github-readme-activity-graph)
+[![Vertanzil's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Vertanzil&theme=github)](https://github.com/Vertanzil/github-readme-activity-graph)
 
 <a href="https://github.com/Vertanzil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vertanzil&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=64748b&bg_color=22272e&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
