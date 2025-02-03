@@ -38,7 +38,7 @@ My goal is to help businesses and individuals reach their digital potential by c
 
 <h2> Stuff I worked on last week. </h2>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vertanzil&show_icons=true&theme=transparent&compact=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vertanzil&show_icons=true&theme=transparent&compact=true)](https://github.com/vertanzil/github-readme-stats)
 
 
 
