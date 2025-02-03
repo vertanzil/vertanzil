@@ -36,11 +36,9 @@ My goal is to help businesses and individuals reach their digital potential by c
 <a href = 'https://vertanzil.github.io'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/github.com/vertanzil'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-<h2> Stuff I worked on last week. </h2>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vertanzil&show_icons=true&theme=transparent&compact=true)](https://github.com/vertanzil/github-readme-stats)
-
-
+<h2> Stats. </h2>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <h2> My GitHub Stats </h2>
 
@@ -50,16 +48,3 @@ My goal is to help businesses and individuals reach their digital potential by c
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vertanzil&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
-
-<!--START_SECTION:waka-->
-
-```txt
-Vue.js        5 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.68 %
-Java          3 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
-JavaScript    2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-CSS           1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
-HTML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-```
-
-<!--END_SECTION:waka-->
-
