@@ -51,5 +51,6 @@ My goal is to help businesses and individuals reach their digital potential by c
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vertanzil&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </a>
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
