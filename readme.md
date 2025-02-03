@@ -38,6 +38,15 @@ My goal is to help businesses and individuals reach their digital potential by c
 
 <h2> Stats. </h2>
 <!--START_SECTION:waka-->
+
+```txt
+Vue.js        5 hrs 22 mins   █████████▓░░░░░░░░░░░░░░░   38.68 %
+Java          3 hrs 59 mins   ███████▒░░░░░░░░░░░░░░░░░   28.76 %
+JavaScript    2 hrs 13 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
+CSS           1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+HTML          15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
+```
+
 <!--END_SECTION:waka-->
 
 <h2> My GitHub Stats </h2>
