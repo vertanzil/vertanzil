@@ -40,11 +40,11 @@ My goal is to help businesses and individuals reach their digital potential by c
 <!--START_SECTION:waka-->
 
 ```txt
-Vue.js        5 hrs 21 mins   █████████████▒░░░░░░░░░░░   53.69 %
-Java          1 hr 28 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.86 %
-JavaScript    1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-CSS           1 hr 14 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.50 %
-XML           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.09 %
+Vue.js        4 hrs 49 mins   █████████████▒░░░░░░░░░░░   53.04 %
+Java          2 hrs 8 mins    ██████░░░░░░░░░░░░░░░░░░░   23.52 %
+CSS           1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+JavaScript    18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
+XML           12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 ```
 
 <!--END_SECTION:waka-->
