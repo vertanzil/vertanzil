@@ -40,11 +40,11 @@ My goal is to help businesses and individuals reach their digital potential by c
 <!--START_SECTION:waka-->
 
 ```txt
-PHP          2 hrs 28 mins   ████████████████████▒░░░░   81.77 %
-HTML         29 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-CSV          2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
+PHP          4 hrs 50 mins   ███████████████████▓░░░░░   79.15 %
+Markdown     35 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.60 %
+HTML         29 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 %
+INI          6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
+CSV          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
