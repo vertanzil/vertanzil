@@ -40,8 +40,7 @@ My goal is to help businesses and individuals reach their digital potential by c
 <!--START_SECTION:waka-->
 
 ```txt
-PHP    32 mins         ███████████████████████▓░   94.47 %
-Java   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Java   1 min           █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
