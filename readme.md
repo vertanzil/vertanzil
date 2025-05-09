@@ -40,7 +40,8 @@ My goal is to help businesses and individuals reach their digital potential by c
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+PHP    42 mins         ████████████████████████▓   98.09 %
+Bash   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
 ```
 
 <!--END_SECTION:waka-->
