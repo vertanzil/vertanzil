@@ -8,8 +8,7 @@ My goal is to help businesses and individuals reach their digital potential by c
 </div>
 
 <h2> About Me </h2>
-
-<img width="55%"  height="50%" align="right" alt="Github" src="https://github.com/vertanzil/vertanzil/blob/main/pc.png" />
+<a href="#"><img src="https://github.com/vertanzil/vertanzil/blob/main/pc.png" width="20%" height="25%" align="right" alt="PC" style="box-sizing: border-box;"></a>
 
 
 - 🔭 I’m currently working on improving my portfolio and learning new skills.
